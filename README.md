@@ -14,7 +14,7 @@ Android Studio(Min. required Artic Fox)
 
 ## PROGRAM:
 ```
-/*
+
 Program to create and design an android application to draw a shapes using 3D graphics with openGL ES.
 Developed by:         HARSHITHA V 
 Registeration Number :212223230074
